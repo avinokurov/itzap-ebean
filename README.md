@@ -12,4 +12,4 @@
 	* `cd ../itzap-rxjava && mvn clean install`
 	* `cd ../itzap-ebeans && mvn clean install`
 * Example
-	* `itzap-beans` project contains sample [UserDao](src/test/java/com/itzap/ebeans/test/dao/UserDao.java) implementation
+	* `itzap-beans` project contains sample [UserDao](https://github.com/avinokurov/itzap-ebeans/blob/master/src/test/java/com/itzap/ebeans/test/dao/UserDao.java) implementation
