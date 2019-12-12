@@ -1,5 +1,6 @@
 # itzap-ebeans
-**itzap-ebeans** provides an easy to use library for building reactive DAO with flexible schema models. 
+**itzap-ebeans** provides an easy to use library for building reactive DAO with flexible schema models.
+Visit my [ITZap blog](http://itzap.com/sql-database-with-flexible-schema/) to read more about this project. 
 ### How To Build
 * Clone the following projects: 
 	* `git clone git@github.com:avinokurov/itzap-parent.git`
